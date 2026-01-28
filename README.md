@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>EXFOLIATE! EXFOLIATE!</strong>
+  <strong>EXFOLIATE! EXFOLIATE!</strong> 
 </p>
 
 <p align="center">
